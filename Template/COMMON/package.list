@@ -53,7 +53,7 @@ cups-browsed
 cups-bsd
 cups-filters-core-drivers
 curl
-dbus-user-session
+#dbus-user-session
 dbus-x11
 dc
 dconf-gsettings-backend
@@ -325,8 +325,6 @@ syslinux
 syslinux-common
 syslinux-utils
 system-tools-backends
-systemd
-systemd-shim
 sysv-rc-conf
 sysvinit-core
 sysvinit-utils
